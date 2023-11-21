@@ -4,4 +4,10 @@ SQL project to analyze super store data.  The focus of this project is to learn 
 Database Used: MySql and SQL
 The database includes details of all active or non-active customers, employees details, details of all the orders placed till date, details of all the offices at different locations, product details, etc.
 
-Topics Covered: Creating the table using CREATE TABLE statement, declaring the appropriate data types for each field, applying the required cnstraints to the field, inserting the data in each table using INSERT statement, fetching the records using SELECT statement, filtering the records using WHERE clause, sorting the result set using ORDER BY, LIMIT/OFFSET, grouping the data using GROUP BY, joining the different tables as per the requirement of the questions, filtering the grouped result set using HAVING clause, aggregate functions like SUM, AVG, MIN, MAX and COUNT, Numeric functions, string functions, DateTime functions.
+Topics Covered: 
+1) Creating the table using CREATE TABLE statement and declaring the appropriate data types for each field.
+2) Applying the required cnstraint to the fields and inserting the data in each table using INSERT statement
+3) Fetching the records using SELECT statement, filtering the records using WHERE clause, sorting the result set using ORDER BY, LIMIT/OFFSET.
+4) Grouping the data using GROUP BY and filtering the grouped result set using HAVING clause.
+5) Joining the different tables as per the requirement of the questions and use of subquery whereever required.
+6) Aggregate functions like SUM, AVG, MIN, MAX and COUNT, Numeric functions, string functions, DateTime functions, etc
