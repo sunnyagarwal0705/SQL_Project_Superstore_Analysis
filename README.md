@@ -1,5 +1,5 @@
 # SQL_Project_Superstore_Analysis
-SQL project to analyze super store data.  This project is for beginners and will teach you how to analyze the superstore sale database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
+SQL project to analyze super store data.  The focus of this project is to learn to write different SQL queries to create and insert data into the database and to retrieve data from the database to analyse superstore sale. By answering the different types of questions, we tried to help the store understand its business growth
 
 Database Used: MySql and SQL
 The database includes details of all active or non-active customers, employees details, details of all the orders placed till date, details of all the offices at different locations, product details, etc.
